@@ -6,7 +6,7 @@ export default function Home() {
         <img
   src="/logo.png"
   alt="Aadil Mahar Logo"
-  className="h-16 w-auto"
+  className="h-32  w-auto"
 />
         <div className="flex gap-8 text-sm font-medium">
           <a href="#work">Works</a>
@@ -19,7 +19,7 @@ export default function Home() {
       <section className="grid grid-cols-1 md:grid-cols-2 items-center px-10 py-20 gap-10">
         <div>
           <div className="inline-block bg-black text-white px-5 py-3 rounded-md mb-8 font-semibold">
-            It&apos;s me
+            Available for Remote Work
           </div>
 
           <h2 className="text-5xl md:text-7xl font-bold leading-tight">
