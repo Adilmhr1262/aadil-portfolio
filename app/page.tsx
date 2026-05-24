@@ -6,7 +6,7 @@ export default function Home() {
         <img
   src="/logo.png"
   alt="Aadil Mahar Logo"
-  className="h-12 w-auto"
+  className="h-16 w-auto"
 />
         <div className="flex gap-8 text-sm font-medium">
           <a href="#work">Works</a>
