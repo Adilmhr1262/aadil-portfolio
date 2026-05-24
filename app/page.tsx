@@ -3,8 +3,11 @@ export default function Home() {
     <main className="min-h-screen bg-[#f4f1ea] text-[#111827]">
       {/* Navbar */}
       <nav className="flex items-center justify-between px-10 py-6">
-        <h1 className="text-2xl font-bold">&lt;aa/&gt;</h1>
-
+        <img
+  src="/logo.png"
+  alt="Aadil Mahar Logo"
+  className="h-12 w-auto"
+/>
         <div className="flex gap-8 text-sm font-medium">
           <a href="#work">Works</a>
           <a href="#resume">Resume</a>
